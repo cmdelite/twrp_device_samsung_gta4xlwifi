@@ -6,3 +6,5 @@
 #
 
 LOCAL_PATH := device/samsung/gta4xlwifi
+
+TW_MAX_BRIGHTNESS := 255
