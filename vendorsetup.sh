@@ -10,6 +10,18 @@
 # -----------------------------------
 #
 #
+
+#
+# Copyright (C) 2025 The Android Open Source Project
+# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+add_lunch_combo twrp_gta4xlwifi-user
+add_lunch_combo twrp_gta4xlwifi-userdebug
+add_lunch_combo twrp_gta4xlwifi-eng
+
 "TARGET_ARCH"
   - set this to "arm" or "arm64", depending on whether your device is 32-bit or 64-bit
   - eg., "export TARGET_ARCH=arm"
