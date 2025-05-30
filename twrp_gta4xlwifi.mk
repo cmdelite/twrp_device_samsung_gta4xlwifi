@@ -27,3 +27,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="lineage_gta4xlwifi-userdebug 15 BP1A.250505.005 030b54fa05 test-keys"
 
 BUILD_FINGERPRINT := samsung/lineage_gta4xlwifi/gta4xlwifi:15/BP1A.250505.005/030b54fa05:userdebug/test-keys
+
+TW_MAX_BRIGHTNESS := 255
